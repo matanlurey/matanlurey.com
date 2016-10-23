@@ -1,0 +1,29 @@
+# Site settings.
+baseurl:            "https://matanlurey.com"
+languageCode:       "en-US"
+theme:              "hugo-identity-theme"
+title:              "Matan Lurey"
+googleAnalytics:    "UA-86182962-1"
+
+# Configuration.
+params:
+    name:           "Matan Lurey"
+    position:       "Frontend Software Engineer"
+    email:          "me@matanlurey.com"
+    avatar:         "matan.jpg"
+
+    social:
+        -
+          title:    "Github"
+          icon:     "fa-github"
+          link:     "https://github.com/matanlurey"
+        -
+          title:    "Medium"
+          icon:     "fa-medium"
+          link:     "https://medium.com/@matanlurey"
+        - 
+          title:    "Twitter"
+          icon:     "fa-twitter"
+          link:     "https://twitter.com/matanlurey"
+    footer:
+        copyright:  "Matan Lurey"
