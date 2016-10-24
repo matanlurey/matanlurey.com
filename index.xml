@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matan Lurey</title>
+    <link>https://matanlurey.com/index.xml</link>
+    <description>Recent content on Matan Lurey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://matanlurey.com/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
