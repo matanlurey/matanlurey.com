@@ -11,6 +11,7 @@ params:
     position:       "Frontend Software Engineer"
     email:          "me@matanlurey.com"
     avatar:         "matan.jpg"
+    background:     bg4.png
 
     social:
         -
