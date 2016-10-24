@@ -17,7 +17,7 @@ before_script:
     - go get -u -v github.com/spf13/hugo
 
 script:
-    - git clone https://github.com/matanlurey/matanlurey.com
+    - git clone https://github.com/aerohub/hugo-identity-theme ./themes/hugo-identity-theme
     - hugo
 
 after_success:
